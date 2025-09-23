@@ -21,7 +21,7 @@ I'm a passionate web developer who enjoys playing games and listening to music i
 * 09161461027
 
 # Reflection
-* Challenges Faced and Solutions
+# Challenges Faced and Solutions
 While working on my portfolio, I faced a lot of frustration because my internet was slow. This made it difficult to test my website often and upload files quickly. Sometimes, waiting for pages to load or files to upload took a long time, which slowed down my progress. It was challenging to see if my changes worked right away, and that made me feel stuck at times.
 Another challenge was that some parts of the design and coding were hard to understand. I struggled with how to make the layout look nice and how to add certain features in JavaScript. It was not always easy to find clear answers.
 To solve these problems, I tried to stay patient and calm. I broke down big tasks into smaller, easier steps so I could focus on one thing at a time. When I couldn’t use the internet well, I worked offline with code editors and planned what I wanted to do next. I also searched for simple tutorials and examples that explained things in a way I could follow. These helped me learn and fix problems step by step. Even though it was hard, I kept going and learned a lot from the experience.
